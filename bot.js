@@ -1,5 +1,5 @@
 const { createClient } = require('bedrock-protocol');
-const mcData = require('minecraft-data')('bedrock_1.21.0');
+const mcData = require('minecraft-data')('bedrock_versi');
 
 // Konfigurasi bot
 const botOptions = {
