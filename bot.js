@@ -3,8 +3,8 @@ const mcData = require('minecraft-data')('bedrock_1.21.0');
 
 // Konfigurasi bot
 const botOptions = {
-  host: 'survpetualang.aternos.me',
-  port: 42013,
+  host: 'IP Server',
+  port: Port Server,
   username: 'Bot_' + Math.floor(Math.random() * 10000), // Nama pengguna bot secara acak
   offline: true, // Mengaktifkan mode offline (crack)
   connectTimeout: 30000 // Timeout dalam milidetik (30 detik)
